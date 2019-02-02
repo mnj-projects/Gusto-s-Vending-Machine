@@ -1,0 +1,143 @@
+--------------------------------------------
+02/02/2019
+Time: 15:02:19 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 2
+	State Name: Choose your food
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 15:02:22 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 3
+	State Name: Insert Money
+Foods Available: 
+	1. Gusto's Shrimp Pasta -> 5
+	2. Gusto's Chicken Prosciutto -> 7
+	3. Gusto's Salmon Rice -> 10
+	4. Gusto's Chicken -> 5
+	5. Gusto's Turkey Pasta -> 10
+	6. Gusto's Special Pasta -> 2
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 15:02:22 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 4
+	State Name: Take your order
+Foods Available: 
+	1. Gusto's Shrimp Pasta -> 4
+	2. Gusto's Chicken Prosciutto -> 7
+	3. Gusto's Salmon Rice -> 10
+	4. Gusto's Chicken -> 5
+	5. Gusto's Turkey Pasta -> 10
+	6. Gusto's Special Pasta -> 2
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 15:02:25 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 1
+	State Name: Start Interaction
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:37:58 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 2
+	State Name: Choose your food
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:38:04 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 3
+	State Name: Insert Money
+Foods Available: 
+	1. Gusto's Shrimp Pasta -> 5
+	2. Gusto's Chicken Prosciutto -> 7
+	3. Gusto's Salmon Rice -> 10
+	4. Gusto's Chicken -> 5
+	5. Gusto's Turkey Pasta -> 10
+	6. Gusto's Special Pasta -> 2
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:38:06 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 1
+	State Name: Start Interaction
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:38:06 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 2
+	State Name: Choose your food
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:38:09 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 3
+	State Name: Insert Money
+Foods Available: 
+	1. Gusto's Shrimp Pasta -> 5
+	2. Gusto's Chicken Prosciutto -> 7
+	3. Gusto's Salmon Rice -> 10
+	4. Gusto's Chicken -> 5
+	5. Gusto's Turkey Pasta -> 10
+	6. Gusto's Special Pasta -> 2
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:38:10 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 4
+	State Name: Take your order
+Foods Available: 
+	1. Gusto's Shrimp Pasta -> 5
+	2. Gusto's Chicken Prosciutto -> 6
+	3. Gusto's Salmon Rice -> 10
+	4. Gusto's Chicken -> 5
+	5. Gusto's Turkey Pasta -> 10
+	6. Gusto's Special Pasta -> 2
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:38:15 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 1
+	State Name: Start Interaction
+--------------------------------------------
+--------------------------------------------
+02/02/2019
+Time: 18:38:50 PM
+********************************************
+Current Status Information:
+State at: 
+	ID: 2
+	State Name: Choose your food
+--------------------------------------------

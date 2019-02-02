@@ -1,0 +1,9 @@
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\bin\Debug\FourPatternsproject.exe.config
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\bin\Debug\FourPatternsproject.exe
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\bin\Debug\FourPatternsproject.pdb
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\obj\Debug\FourPatternsproject.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\obj\Debug\FourPatternsproject.Form1.resources
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\obj\Debug\FourPatternsproject.Properties.Resources.resources
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\obj\Debug\FourPatternsproject.csproj.GenerateResource.Cache
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\obj\Debug\FourPatternsproject.exe
+C:\Users\LAPTOP\Desktop\DP\Projects\FourPatternsproject\FourPatternsproject\obj\Debug\FourPatternsproject.pdb
